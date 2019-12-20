@@ -1,9 +1,9 @@
 # bustling-observatory :man_shrugging:
-Interactive graphic design script for p5.js
+Interactive graphic design scripts for p5.js
 
-Random moving wheel with a line extension.
+[Random Wheel](https://editor.p5js.org/thisistaimur/sketches/o9fedpdVM) :boom:
 
-[Preview it here](https://editor.p5js.org/thisistaimur/sketches/o9fedpdVM) :boom:
+[Move the Box](https://editor.p5js.org/thisistaimur/sketches/tzXwtpH-M) :speech_balloon:	
  
 ## Author
 
