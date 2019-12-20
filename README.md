@@ -1,5 +1,5 @@
 # bustling-observatory :man_shrugging:
-Interactive graphic design scripts for p5.js
+Interactive graphic design "sketch" scripts for p5.js
 
 [Random Wheel](https://editor.p5js.org/thisistaimur/sketches/o9fedpdVM) :boom:
 
