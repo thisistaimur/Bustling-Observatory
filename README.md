@@ -12,4 +12,4 @@ Interactive graphic design scripts for p5.js
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D019OYD)
 
 ## License
-This project is open source and available under the [MIT License](https://github.com/thisistaimur/3D-Cube-Animation-p5.js/blob/master/LICENSE).
+This project is open source and available under the [MIT License](https://github.com/thisistaimur/bustling-observatory/blob/master/LICENSE).
